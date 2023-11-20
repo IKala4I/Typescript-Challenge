@@ -1,0 +1,1 @@
+export const postSection: Element = document.querySelector('.posts') as Element
